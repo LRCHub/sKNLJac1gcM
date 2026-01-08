@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "愛のレンタル",
   "base_artist": "マカロニえんぴつ",
-  "createdAt": "2025-12-01T16:32:14.712382Z",
+  "createdAt": "2026-01-08T16:07:34.831319Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -56,41 +56,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "愛のレンタル",
-      "artist": "私立恵比寿中学",
+      "artist": "マカロニえんぴつ",
       "has_synced": false,
-      "path": "select/pl_01_愛のレンタル_私立恵比寿中学.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "愛のレンタル",
-      "artist": "私立恵比寿中学",
-      "has_synced": false,
-      "path": "select/pl_02_愛のレンタル_私立恵比寿中学.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "愛のレンタル",
-      "artist": "私立恵比寿中学",
-      "has_synced": false,
-      "path": "select/pl_03_愛のレンタル_私立恵比寿中学.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "愛のレンタル",
-      "artist": "私立恵比寿中学",
-      "has_synced": false,
-      "path": "select/pl_04_愛のレンタル_私立恵比寿中学.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "愛のレンタル",
-      "artist": "私立恵比寿中学",
-      "has_synced": false,
-      "path": "select/pl_05_愛のレンタル_私立恵比寿中学.txt"
+      "path": "select/pl_01_愛のレンタル_マカロニえんぴつ.txt"
     }
   ]
 }
